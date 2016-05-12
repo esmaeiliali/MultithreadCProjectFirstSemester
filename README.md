@@ -1,6 +1,6 @@
 # MultithreadCProjectFirstSemester
 
-In this project I created the software for a library with certain specifications. 
+In this project I created the software for a library with certain specifications. //
 This software is in command prompt mode and the user will enter data based his or her needs. 
 I used two threads for the program. One of them is for getting the input via the keyboard and mouse. 
 The second one is for displaying the time on the head of the console application. 
